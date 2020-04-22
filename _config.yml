@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kostas Mammas"
+title                    : "Personal Blog"
 title_separator          : "-"
 name                     : &name "Kostas Mammas"
 description              : &description "Senior Data Scientist Lead @Microsoft"
